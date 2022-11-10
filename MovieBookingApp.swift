@@ -2,7 +2,7 @@
 //  MovieBookingApp.swift
 //  MovieBooking
 //
-//  Created by Willie Yam on 2022-08-16.
+//  
 //
 
 import SwiftUI
